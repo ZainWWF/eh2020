@@ -56,3 +56,8 @@ Thumbs.db
 # SASS #
 ##########
 .sass-cache
+
+
+# dont override git repo with local config/db settings
+wp-config-prod.php
+wp-config.php
